@@ -2,9 +2,10 @@
 	"name": "text_file_decoder",
 	"version": "1.0.0",
 	"description": "",
-	"main": "decode_message.js",
+	"main": "main.js",
 	"scripts": {
-		"test": "jest"
+		"test": "jest",
+		"start": "electron ."
 	},
 	"author": "",
 	"license": "ISC",

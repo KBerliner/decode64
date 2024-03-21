@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { decode_message } = require("./decode_message"); // Assuming your function is in a file named decode_message.js
+const { decode_message } = require("./decode_message");
 
 // Test cases for normal functionality
 describe("Normal functionality tests", () => {
